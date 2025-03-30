@@ -17,14 +17,6 @@
     <li>JavaScript (Fetch API)</li>
     <li>PokéAPI (<a href="https://pokeapi.co/">https://pokeapi.co/</a>)</li>
 </ul>
-
-<h2>📥 Como Executar o Projeto</h2>
-<p>1. Clone este repositório:</p>
-<pre><code>git clone https://github.com/seu-usuario/pokemon-game-js.git</code></pre>
-<p>2. Acesse a pasta do projeto:</p>
-<pre><code>cd pokemon-game-js</code></pre>
-<p>3. Abra o arquivo <code>index.html</code> no navegador.</p>
-
 <h2>📌 Melhorias Futuras</h2>
 <ul>
     <li>🎨 Melhorar o design e responsividade</li>
